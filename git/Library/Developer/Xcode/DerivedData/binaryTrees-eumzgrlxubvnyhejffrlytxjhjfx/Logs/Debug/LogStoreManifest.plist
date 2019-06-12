@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>12065C80-7D78-4542-ADC6-6978962AD64A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>12065C80-7D78-4542-ADC6-6978962AD64A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079666.61147499</real>
+			<key>timeStoppedRecording</key>
+			<real>569079673.97454405</real>
+			<key>title</key>
+			<string>Debug binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>12065C80-7D78-4542-ADC6-6978962AD64A</string>
+		</dict>
+		<key>3447A06C-2662-4147-910E-D81597E60F15</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3447A06C-2662-4147-910E-D81597E60F15.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569080076.42497504</real>
+			<key>timeStoppedRecording</key>
+			<real>569080090.49080098</real>
+			<key>title</key>
+			<string>Debug binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>3447A06C-2662-4147-910E-D81597E60F15</string>
+		</dict>
+		<key>59B4DFB1-60B7-4D7B-B379-45689EF1DB50</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>59B4DFB1-60B7-4D7B-B379-45689EF1DB50.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569080016.68592799</real>
+			<key>timeStoppedRecording</key>
+			<real>569080028.40704703</real>
+			<key>title</key>
+			<string>Debug binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>59B4DFB1-60B7-4D7B-B379-45689EF1DB50</string>
+		</dict>
+		<key>5D255378-6A6A-44AC-8426-B64B3214D9CC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5D255378-6A6A-44AC-8426-B64B3214D9CC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079935.14868999</real>
+			<key>timeStoppedRecording</key>
+			<real>569079982.99525499</real>
+			<key>title</key>
+			<string>Debug binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>5D255378-6A6A-44AC-8426-B64B3214D9CC</string>
+		</dict>
+		<key>C8477A05-483E-497C-B2D6-4F4609DA517E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C8477A05-483E-497C-B2D6-4F4609DA517E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079983.17765296</real>
+			<key>timeStoppedRecording</key>
+			<real>569080013.82196903</real>
+			<key>title</key>
+			<string>Debug binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>C8477A05-483E-497C-B2D6-4F4609DA517E</string>
+		</dict>
+		<key>CA45B8F2-684C-4259-8DF0-40DADDF1A9E8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CA45B8F2-684C-4259-8DF0-40DADDF1A9E8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569089346.32418394</real>
+			<key>timeStoppedRecording</key>
+			<real>569089347.63385904</real>
+			<key>title</key>
+			<string>Debug binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>CA45B8F2-684C-4259-8DF0-40DADDF1A9E8</string>
+		</dict>
+		<key>CB7960A3-33C3-46A2-B6E4-CFDAD89E861D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CB7960A3-33C3-46A2-B6E4-CFDAD89E861D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079847.32429695</real>
+			<key>timeStoppedRecording</key>
+			<real>569079903.54955697</real>
+			<key>title</key>
+			<string>Debug binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>CB7960A3-33C3-46A2-B6E4-CFDAD89E861D</string>
+		</dict>
+		<key>DBF41B5E-B154-48B4-AD60-206D66456781</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DBF41B5E-B154-48B4-AD60-206D66456781.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569080112.96010303</real>
+			<key>timeStoppedRecording</key>
+			<real>569080114.206411</real>
+			<key>title</key>
+			<string>Debug binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>DBF41B5E-B154-48B4-AD60-206D66456781</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

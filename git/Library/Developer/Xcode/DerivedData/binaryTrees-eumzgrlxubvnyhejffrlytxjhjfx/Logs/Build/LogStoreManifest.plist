@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0DDDA882-7AF3-4335-AA06-3FF912151D45</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0DDDA882-7AF3-4335-AA06-3FF912151D45.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079847.13421798</real>
+			<key>timeStoppedRecording</key>
+			<real>569079847.36900902</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>0DDDA882-7AF3-4335-AA06-3FF912151D45</string>
+		</dict>
+		<key>33C8EE55-E00A-43CC-BDBC-CCF56F8CE6D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33C8EE55-E00A-43CC-BDBC-CCF56F8CE6D2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569080016.51560497</real>
+			<key>timeStoppedRecording</key>
+			<real>569080016.74336004</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>33C8EE55-E00A-43CC-BDBC-CCF56F8CE6D2</string>
+		</dict>
+		<key>362E48AA-7883-4F28-AF9E-6620DC293951</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>362E48AA-7883-4F28-AF9E-6620DC293951.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569089345.76474094</real>
+			<key>timeStoppedRecording</key>
+			<real>569089346.35525501</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>362E48AA-7883-4F28-AF9E-6620DC293951</string>
+		</dict>
+		<key>5700D786-9CCB-4AB9-B4A2-18774E590DBB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5700D786-9CCB-4AB9-B4A2-18774E590DBB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569080112.80395699</real>
+			<key>timeStoppedRecording</key>
+			<real>569080113.01198494</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>5700D786-9CCB-4AB9-B4A2-18774E590DBB</string>
+		</dict>
+		<key>6C3713F1-3166-4895-B873-B34C545C6364</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C3713F1-3166-4895-B873-B34C545C6364.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079934.98814595</real>
+			<key>timeStoppedRecording</key>
+			<real>569079935.26850998</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>6C3713F1-3166-4895-B873-B34C545C6364</string>
+		</dict>
+		<key>8400297B-4D0B-41B3-AB8A-F87016E8ABEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8400297B-4D0B-41B3-AB8A-F87016E8ABEB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079666.359519</real>
+			<key>timeStoppedRecording</key>
+			<real>569079666.662871</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>8400297B-4D0B-41B3-AB8A-F87016E8ABEB</string>
+		</dict>
+		<key>ACE40495-D818-422C-BACF-F03839A321D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ACE40495-D818-422C-BACF-F03839A321D1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079980.11293805</real>
+			<key>timeStoppedRecording</key>
+			<real>569079983.23620701</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>ACE40495-D818-422C-BACF-F03839A321D1</string>
+		</dict>
+		<key>DB2B5C89-9ED5-46C6-86EE-93383955851C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB2B5C89-9ED5-46C6-86EE-93383955851C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569079611.02625704</real>
+			<key>timeStoppedRecording</key>
+			<real>569079611.61382604</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>DB2B5C89-9ED5-46C6-86EE-93383955851C</string>
+		</dict>
+		<key>E676C1B9-6805-4AB1-B22B-709B528C90B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E676C1B9-6805-4AB1-B22B-709B528C90B5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>binaryTrees project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>binaryTrees</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build binaryTrees</string>
+			<key>timeStartedRecording</key>
+			<real>569080076.25089896</real>
+			<key>timeStoppedRecording</key>
+			<real>569080076.48172402</real>
+			<key>title</key>
+			<string>Build binaryTrees</string>
+			<key>uniqueIdentifier</key>
+			<string>E676C1B9-6805-4AB1-B22B-709B528C90B5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
